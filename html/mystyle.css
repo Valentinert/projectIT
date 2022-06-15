@@ -1,0 +1,52 @@
+body
+{background-color:red;
+width:1000px;
+margin:auto;  }
+header
+{background-color:yellow;
+height: 80px;
+width:100%;
+position: fixed;
+top: 0;
+left:0;
+right:0;
+text-align: center;
+vertical-align: middle; } 
+h1 
+{
+font:Fantasy;
+font-size: 40px;
+font:bold;
+color: black;
+margin-top: 20px;
+text-align: center; }
+h2
+{
+font:Fantasy;
+font-size: 25px;
+font:bold;
+color: black;
+margin-top: 20px;
+text-align: center; }
+footer  
+{ background-color:red;
+height: 60px;
+width:100%;
+position: fixed;
+bottom: 0;
+left:0;
+right:0;}
+h6
+{ font:Fantasy;
+font-size: 20px;
+font:bold;
+color:black;
+margin-top: 5px;
+text-align: center;}
+li
+{
+font:Fantasy;
+font-size: 25px;
+color: black;
+margin-top: 20px;
+text-align: center; }
